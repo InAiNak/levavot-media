@@ -42,3 +42,5 @@
 | reels/levavot-v2-bochrim-osim-tzovrim.mp4 | "הם בוחרים. הם עושים. הם צוברים." (מאושר 17.11) |
 | reels/levavot-reel-store-v1.mp4 | חנות הלבבות: הילד בוחר פרס, ההורה מאשר |
 | reels/levavot-reel-siblings-v1.mp4 | בלי תחרות בין אחים: כל ילד מול עצמו |
+| reels/levavot-char-homework-v1.mp4 | דמויות: שיעורי בית בלי ויכוח |
+| reels/levavot-char-proud-v1.mp4 | דמויות: רגע של גאווה – "עשיתי את זה לבד" |
