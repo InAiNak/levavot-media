@@ -32,3 +32,9 @@
 | reels/levavot-v3-boker.mp4 | "בוקר בלי נדנודים" |
 | reels/levavot-reel-games-v1.mp4 | משחקי הלימוד בלבבות (לוח הכפל, שברים, אנגלית, חשיבה) – הורים שחשוב להם לימוד. נוצר 21.11, ממתין לאישור |
 | reels/levavot-reel-ru-v1.mp4 | גרסה ברוסית – הורים דוברי רוסית. נוצר 21.11, עודכן עם חתימה קולית; ממתין לאישור ובדיקת דובר שפת אם |
+| reels/levavot-game-english-v1.mp4 | סדרת "משחק השבוע": אנגלית (apple) | 
+| reels/levavot-game-shapes-v1.mp4 | משחק השבוע: צורות (משושה) |
+| reels/levavot-game-fractions-v1.mp4 | משחק השבוע: שברים (פיצה) |
+| reels/levavot-game-thinking-v1.mp4 | משחק השבוע: חשיבה לכיתה ב׳ (סדרות) |
+| reels/levavot-game-israel-v1.mp4 | משחק השבוע: ידיעת הארץ |
+| reels/levavot-game-flags-v1.mp4 | משחק השבוע: דגלי העולם |
