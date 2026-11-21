@@ -40,3 +40,5 @@
 | reels/levavot-game-flags-v1.mp4 | משחק השבוע: דגלי העולם |
 | reels/levavot-v1-kvar-asiti.mp4 | "כבר עשיתי!" (מאושר 17.11) |
 | reels/levavot-v2-bochrim-osim-tzovrim.mp4 | "הם בוחרים. הם עושים. הם צוברים." (מאושר 17.11) |
+| reels/levavot-reel-store-v1.mp4 | חנות הלבבות: הילד בוחר פרס, ההורה מאשר |
+| reels/levavot-reel-siblings-v1.mp4 | בלי תחרות בין אחים: כל ילד מול עצמו |
