@@ -44,3 +44,5 @@
 | reels/levavot-reel-siblings-v1.mp4 | בלי תחרות בין אחים: כל ילד מול עצמו |
 | reels/levavot-char-homework-v1.mp4 | דמויות: שיעורי בית בלי ויכוח |
 | reels/levavot-char-proud-v1.mp4 | דמויות: רגע של גאווה – "עשיתי את זה לבד" |
+| reels/levavot-char-homework-f-v1.mp4 | דמויות (בת, לשון נקבה): שיעורי בית בלי ויכוח |
+| reels/levavot-char-proud-f-v1.mp4 | דמויות (בת, לשון נקבה): "עשיתי את זה לבד!" |
